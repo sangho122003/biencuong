@@ -1,0 +1,84 @@
+.a {
+   
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+    }
+    .mom{
+      border-radius: 2%;
+    }
+    .box1:hover{
+      background-color: #fff;
+      border: 3px solid #ccc; 
+      box-shadow: 0 0 1px 5px rgb(255, 255, 255);
+      .anh{
+        margin-top: 10px;
+      }
+      h2{
+        color: blue;
+        height: 5px;;
+      }
+    }
+  .nut {
+          
+          margin-top: 1px;
+          color: red;
+          background-color: rgb(165, 11, 11);
+          text-align: center;
+        
+          
+          }
+  .box1{
+      border: 3px solid rgba(240, 15, 15, 0.959);
+      width: 234px;
+      height: 500px;
+      background-color: white;
+      background-image: url('backgroundbox.webp');
+      border-radius: 5px;
+
+
+  }
+  .anh{
+      width: 200px;
+      height: 200px;
+      margin-left: 10px;
+      margin-top: 20px;
+      border-radius:5% ;
+  }
+  h1{
+      color: rgb(180, 72, 22);
+      margin-Top: -100px;
+      margin-left: 15px;
+      font-size: 20px;
+  
+  }
+  h2{
+      
+      margin-top: 60px;
+      margin-left: 10px;
+      font-size: 20px;
+      margin-bottom: 50px;
+  }
+  .tagline{
+      margin-left: 2px;
+  }
+  .btn{
+    cursor: pointer;
+    width: 400px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: yellow;
+    
+  }
+  .btn:hover{
+    background-color:red;
+  }
+  h6{
+    margin-left: 10px;
+    width: 59px;
+    height: 10px;
+    background: linear-gradient(to right, rgb(255, 69, 0), red);
+          color: white; 
+          padding: 10px; 
+    border-radius: 20px ;
+  }
